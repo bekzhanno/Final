@@ -1,0 +1,98 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Daune",
+      "lastname": "Grainge",
+      "email": "dgrainge0@wiley.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "firstname": "Curcio",
+      "lastname": "Reppaport",
+      "email": "creppaport1@ca.gov",
+      "password": "123456"
+    },
+    {
+      "id": 3,
+      "firstname": "Cristen",
+      "lastname": "Dawes",
+      "email": "cdawes2@washington.edu",
+      "password": "123456"
+    },
+    {
+      "id": 4,
+      "firstname": "Mignon",
+      "lastname": "Cranch",
+      "email": "mcranch3@printfriendly.com",
+      "password": "123456"
+    },
+    {
+      "id": 5,
+      "firstname": "Barb",
+      "lastname": "Pheazey",
+      "email": "bpheazey4@mozilla.org",
+      "password": "123456"
+    }
+  ],
+  "app": [
+    {
+      "id": 1,
+      "appname": "Bitwolf",
+      "appversion": "4.4.0"
+    },
+    {
+      "id": 2,
+      "appname": "Temp",
+      "appversion": "1.7"
+    },
+    {
+      "id": 3,
+      "appname": "Job",
+      "appversion": "3.27"
+    },
+    {
+      "id": 4,
+      "appname": "Gembucket",
+      "appversion": "0.9.9"
+    },
+    {
+      "id": 5,
+      "appname": "Alphazap",
+      "appversion": "0.69"
+    }
+  ],
+  "stock": [
+    {
+      "id": 1,
+      "stockname": "Frankly, Inc.",
+      "stocksector": "n/a",
+      "stockindustry": "n/a"
+    },
+    {
+      "id": 2,
+      "stockname": "ENSCO plc",
+      "stocksector": "Energy",
+      "stockindustry": "Oil & Gas Production"
+    },
+    {
+      "id": 3,
+      "stockname": "Urstadt Biddle Properties Inc.",
+      "stocksector": "Consumer Services",
+      "stockindustry": "Real Estate Investment Trusts"
+    },
+    {
+      "id": 4,
+      "stockname": "PowerShares DWA Technology Momenum Portfolio",
+      "stocksector": "n/a",
+      "stockindustry": "n/a"
+    },
+    {
+      "id": 5,
+      "stockname": "Old Second Bancorp, Inc.",
+      "stocksector": "Finance",
+      "stockindustry": "Major Banks"
+    }
+  ]
+}
